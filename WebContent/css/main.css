@@ -1,0 +1,24 @@
+@charset "UTF-8";
+.container{
+min-height:calc(100vh - 70px);
+}
+form{
+margin:20px auto;
+}
+input,select{
+margin-right:5px;
+}
+.pager{
+text-align:left;
+}
+.paginationBox{
+text-align:center;
+}
+footer{
+height:40px;
+background:#347ab7;
+color:white;
+text-align:center;
+line-height:40px;
+margin-top:30px;
+}
